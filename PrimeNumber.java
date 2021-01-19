@@ -9,10 +9,7 @@ import java.util.Scanner;
 
 public class PrimeNumber {
     static boolean checkComposite(int num) {
-        if (num <= 1)
-            return false;
-
-        if (num <= 3)
+        if (num <= 1 || num <= 3)
             return false;
 
         if (num % 2 == 0 || num % 3 == 0)

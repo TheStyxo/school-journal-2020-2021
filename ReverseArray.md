@@ -28,5 +28,5 @@ Enter element [5]: 0
 ---
 ```
 Entered numbers were: [6, 9, 4, 2, 0]
-Reversed numbers are: [0, 2, 4, 9, 6]
+Reversed numbers are: [0, 2, 4, 6, 9]
 ```

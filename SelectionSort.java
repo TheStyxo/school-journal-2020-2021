@@ -1,6 +1,6 @@
 
 /**
- * Write a program to arrange an integer array using the selection sort
+ * Write a program to arrange an integer array in ascending order using the selection sort
  * technique.
  */
 
@@ -41,8 +41,8 @@ public class SelectionSort {
         }
         sc.close();
 
-        System.out.println("Entered numbers were: " + "[" + joinArr(arr) + "]");
+        System.out.println("Entered numbers were: [" + joinArr(arr) + "]");
         sort(arr);
-        System.out.println("Sorted numbers are: " + "[" + joinArr(arr) + "]");
+        System.out.println("Sorted numbers are: [" + joinArr(arr) + "]");
     }
 }

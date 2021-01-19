@@ -1,6 +1,6 @@
 
 /**
- * Write a program to arrange an integer array using the bubble sort
+ * Write a program to arrange an integer array in ascending order using the bubble sort
  * technique.
  */
 
@@ -24,7 +24,6 @@ public class BubbleSort {
                 }
             }
         }
-
     }
 
     public static void main(String args[]) {

@@ -3,6 +3,7 @@
 | Name of Variable | Data type | Description
 |:---              |:---       |:---
 |arr[]             |int        |An integer array containing values entered by the user.
+|x[]             |int        |An integer array containing values entered by the user.
 |arrStr            |String     |The array joined with ", " as a single string.
 |sum1              |int        |Sum of all array elements with single digit.
 |sum2              |int        |Sum of all array elements with double digits.

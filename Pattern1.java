@@ -29,7 +29,7 @@ public class Pattern1 {
 
         for (int i = 0; i < word.length(); i++) {
             for (int j = 0; j <= i; j++)
-                System.out.print(word.charAt(j) + " ");
+                System.out.print(Character.toString(word.charAt(j)).toUpperCase() + " ");
             System.out.println();
         }
     }
